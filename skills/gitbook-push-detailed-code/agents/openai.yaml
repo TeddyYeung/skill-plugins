@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitBook Push Publisher"
+  short_description: "Push docs to GitBook with detailed concrete code examples."
+  default_prompt: "Use $gitbook-push-detailed-code to publish this doc to GitBook with concrete, detailed code examples."
