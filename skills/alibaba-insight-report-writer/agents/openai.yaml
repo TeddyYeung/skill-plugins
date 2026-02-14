@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alibaba Insight Writer"
+  short_description: "Translate tech blogs into Korean decision reports."
+  default_prompt: "알리바바 기술 블로그를 한국어 인사이트 리포트로 만들어줘"
